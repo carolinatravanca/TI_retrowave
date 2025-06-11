@@ -166,5 +166,3 @@ Bibliotecas Processing: Sound, MQTT (StudioSAVSoft)
 
 ## 8. Contributors
 Carolina Travanca, Clara Gomes, Flávia Simões - MDM
-Sérgio M. Rebelo - supervision
-Pedro Silva - revision
