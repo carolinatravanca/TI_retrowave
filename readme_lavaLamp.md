@@ -141,6 +141,4 @@ Este projeto está licenciado sob a licença MIT.
 ---
 ## 8. Contributors
 Carolina Travanca, Clara Gomes, Flávia Simões - MDM
-Sérgio M. Rebelo - supervision
-Pedro Silva - revision
 
