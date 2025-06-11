@@ -108,6 +108,7 @@ Um pino: GPIO 14
 Outro: GND
 
 # Teste Completo
+Construa o circuito conforme presente no repositório
 Execute o sketch no Processing
 Ligue o ESP32 e abra o Monitor Serial
 Aproxime uma tag NFC → toca uma música específica e inicia visualização
