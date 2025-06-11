@@ -52,7 +52,7 @@ Vários	        Cabos Jumper
 
 
 # 3.2 Installation
-Construa o circuito conforme abaixo (ver Ligações do Circuito)
+Construa o circuito conforme presente no repositório
 Instale a biblioteca Adafruit NeoPixel v1.11.0
 Copie o código-fonte para o Arduino IDE
 Compile e faça o upload para o Arduino Uno
