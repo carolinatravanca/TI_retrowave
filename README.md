@@ -52,7 +52,7 @@ Vários	        Cabos Jumper
 
 
 # 3.2 Installation
-Construa o circuito conforme abaixo (ver Ligações do Circuito)
+Construa o circuito conforme presente no repositório
 Instale a biblioteca Adafruit NeoPixel v1.11.0
 Copie o código-fonte para o Arduino IDE
 Compile e faça o upload para o Arduino Uno
@@ -253,6 +253,7 @@ Um pino: GPIO 14
 Outro: GND
 
 # Teste Completo
+Construa o circuito conforme presente no repositório
 Execute o sketch no Processing
 Ligue o ESP32 e abra o Monitor Serial
 Aproxime uma tag NFC → toca uma música específica e inicia visualização
